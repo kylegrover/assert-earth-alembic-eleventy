@@ -24,7 +24,7 @@ baseurl: ''
 title: 'ASSERT: Second Responders'
 description: 'Animal Survival & Safety Emergency Response Team'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "/img/assert-temporary-logo-black.png"
 
 # Pagination
 paginate: 5
